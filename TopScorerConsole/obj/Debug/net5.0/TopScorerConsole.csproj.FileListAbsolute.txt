@@ -1,0 +1,16 @@
+C:\Repository\TopScorerConsole\TopScorerConsole\bin\Debug\net5.0\TopScorerConsole.exe
+C:\Repository\TopScorerConsole\TopScorerConsole\bin\Debug\net5.0\TopScorerConsole.deps.json
+C:\Repository\TopScorerConsole\TopScorerConsole\bin\Debug\net5.0\TopScorerConsole.runtimeconfig.json
+C:\Repository\TopScorerConsole\TopScorerConsole\bin\Debug\net5.0\TopScorerConsole.runtimeconfig.dev.json
+C:\Repository\TopScorerConsole\TopScorerConsole\bin\Debug\net5.0\TopScorerConsole.dll
+C:\Repository\TopScorerConsole\TopScorerConsole\bin\Debug\net5.0\ref\TopScorerConsole.dll
+C:\Repository\TopScorerConsole\TopScorerConsole\bin\Debug\net5.0\TopScorerConsole.pdb
+C:\Repository\TopScorerConsole\TopScorerConsole\obj\Debug\net5.0\TopScorerConsole.csproj.AssemblyReference.cache
+C:\Repository\TopScorerConsole\TopScorerConsole\obj\Debug\net5.0\TopScorerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\TopScorerConsole\TopScorerConsole\obj\Debug\net5.0\TopScorerConsole.AssemblyInfoInputs.cache
+C:\Repository\TopScorerConsole\TopScorerConsole\obj\Debug\net5.0\TopScorerConsole.AssemblyInfo.cs
+C:\Repository\TopScorerConsole\TopScorerConsole\obj\Debug\net5.0\TopScorerConsole.csproj.CoreCompileInputs.cache
+C:\Repository\TopScorerConsole\TopScorerConsole\obj\Debug\net5.0\TopScorerConsole.dll
+C:\Repository\TopScorerConsole\TopScorerConsole\obj\Debug\net5.0\ref\TopScorerConsole.dll
+C:\Repository\TopScorerConsole\TopScorerConsole\obj\Debug\net5.0\TopScorerConsole.pdb
+C:\Repository\TopScorerConsole\TopScorerConsole\obj\Debug\net5.0\TopScorerConsole.genruntimeconfig.cache
